@@ -1,0 +1,15 @@
+<div class="post-tags">
+ 
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+
+  {% if tags.size > 0 %}
+  	Tags:
+	  {% for tag in tags %}
+	  	<em><a href="/tags/#{{tag|slugify}}">{{tag}}</a></em>{% unless forloop.last %},{% endunless %}
+	  {% endfor %}
+  {% endif %}
+</div>

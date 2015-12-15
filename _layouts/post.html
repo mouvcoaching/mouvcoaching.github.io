@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<div id="blue">
+    <div class="container">
+		<div class="row">
+			<h3>{{ page.title }}</h3>
+		</div><!-- /row -->
+    </div> <!-- /container -->
+</div><!-- /blue -->
+
+
+<!-- *****************************************************************************************************************
+ BLOG CONTENT
+ ***************************************************************************************************************** -->
+
+ <div class="container-fluid">
+ 	<div class="row">
+
+ 		<!-- SINGLE POST -->
+ 		<div class="col-lg-8 post">
+ 			<!-- Blog Post -->
+
+	 		{{ content }}
+
+	 		<div class="spacing"></div>
+
+	 		{% include disqus.html %}
+
+ 		<div class="spacing"></div>
+
+ 		<h6>PARTAGER:</h6>
+	 		<p class="share">
+	 			<a href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url }}&text={{ page.title }}&via=mouvcoaching" target="_blank"><i class="fa fa-twitter"></i></a>
+	 			<a href="http://facebook.com/mouvcoaching"><i class="fa fa-facebook"></i></a>
+	 		</p>
+		</div><!--/col-lg-8 -->
+
+
+		<!-- SIDEBAR -->
+ 		<div class="col-lg-4">
+	 		<h4>Recherche</h4>
+	 		<div class="hline"></div>
+	 			<p>
+					  <form id="gsearch" action="http://google.fr/search">
+					  	<div class="form-group">
+						    <fieldset role="search">
+						      <input type="search" name="q" results="5" placeholder="Rechercher" class="form-control"/>
+						      <!-- <input type="hidden" name="q" value="site:mouvcoaching.com"/> -->
+						    </fieldset>
+					    </div>
+					  </form>
+	 			</p>
+
+	 		<div class="spacing"></div>
+
+	 		<h4>Categories</h4>
+	 		<div class="hline"></div>
+
+		 		{% for categ in site.categories %}
+			 		{% capture categ_name %}{{ categ | first }}{% endcapture %}
+	    			<p><a href="/categories/#{{ categ_name | slugify }}"><i class="fa fa-angle-right"></i> {{ categ_name | slugify }} </a> <span class="badge badge-theme pull-right">{{ categ | last | size }}</span></p>
+    			{% endfor %}
+
+	 		<div class="spacing"></div>
+
+	 		<h4>Posts Récents</h4>
+	 		<div class="hline"></div>
+				<ul class="popular-posts">
+
+					{% for post in site.related_posts limit:3 %}
+
+		                <li>
+
+		                	{% if post.thumbnail %}
+		                    	<a href="#"><img src="{{ post.thumbnail }}" alt=""></a>
+
+		                    {% else %}
+		                    	<a href="#"><img src="/assets/img/thsitdown.jpg" alt=""></a>
+
+		                    {% endif %}
+
+
+
+		                    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+		                    <em>Posté le {{ post.date | date_to_string }}</em>
+		                </li>
+
+					{% endfor %}
+
+	            </ul>
+
+	 		<div class="spacing"></div>
+
+	 		<h4>Tags Populaires</h4>
+	 		<div class="hline"></div>
+	 			<p>
+
+	            	{% for tag in site.tags %}
+			 			{% capture tag_name %}{{ tag | first }}{% endcapture %}
+	    				<a class="btn btn-theme" href="/tags/#{{ tag_name | slugify }}" role="button">{{ tag_name | slugify }}</a>
+    				{% endfor %}
+
+	 			</p>
+ 		</div>
+ 	</div><!--/row -->
+ </div><!--/container -->

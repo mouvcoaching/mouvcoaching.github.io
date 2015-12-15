@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+
+<!-- *****************************************************************************************************************
+   CAROUSEL
+   ***************************************************************************************************************** -->
+     <div class="container mt2">
+
+      <div class="row">
+        <div class="centered">
+          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="3000">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+
+                  <img src="/assets/img/tree.jpg" alt="">
+                    <div class="container">
+                        <div class="carousel-caption">
+                          <i class="fa fa-wrench icon-4x"></i>
+                          <h1>Un accompagnement pour</h1>
+                          <p class="lead">Prendre une décision, réussir sa prise de poste, devenir manager, prendre la parole en public, faire un feedback, motiver une équipe…</p>
+                          <a class="btn btn-large btn-primary" href="/prestations/#accompagnement">C'est par ici</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+
+                  <img src="/assets/img/campagne.jpg" alt="">
+                    <div class="container">
+                        <div class="carousel-caption">
+                          <i class="fa fa-tachometer icon-4x"></i>
+                          <h1>L'envie de changer de travail</h1>
+                          <p class="lead">Retrouver l’envie d’aller au travail, exprimer pleinement votre potentiel, réorienter votre carrière…</p>
+                          <a class="btn btn-large btn-primary" href="/prestations/#envie-de-changer-de-travail">C'est par là</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+
+                  <img src="/assets/img/sunset.jpg" alt="">
+                  <div class="container">
+                        <div class="carousel-caption">
+                           <i class="fa fa-comment-o icon-4x"></i>
+                           <h1>Comment pouvons-nous vous aider?</h1>
+                          <p class="lead">Aborder d’autres thématiques en coaching, découvrir nos autres types d’accompagnement…</p>
+                          <a class="btn btn-large btn-primary" href="/prestations/#autre-chose">Peut être ici</a>
+                        </div>
+                  </div>
+                </div>
+
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+          </div><!--/Carousel -->
+        </div>
+      </div>
+
+    </div>
+
+
+   <!-- *****************************************************************************************************************
+
+   ***************************************************************************************************************** -->
+
+   <div class="mtb2">
+    <div class="row">
+      <div class="col-md-4 centered">
+        <h4>A propos de MouvCoaching</h4>
+        <p>Révélez-vous avec notre approche créative personnalisée.</p>
+        <p>MouvCoaching est un cabinet de coaching professionnel qui vous aide à vous remettre en mouvement grâce à une approche basée sur la créativité.</p>
+        <p><br/><a href="/about" class="btn btn-theme">Plus d'info</a></p>
+      </div>
+
+      <div class="col-md-4">
+        <h4>Questions fréquentes</h4>
+        <div class="hline"></div>
+        <p><a href="/coaching/faq/2015/11/23/a-quoi-sert-le-coaching/">A quoi sert le coaching?</a></p>
+        <p><a href="/coaching/faq/2015/11/20/pourquoi-faire-un-coaching/">Pourquoi faire un coaching?</a></p>
+
+      </div>
+
+      <div class="col-md-4">
+        <h4>Les derniers Posts</h4>
+
+        <div class="hline"></div>
+
+        {% for post in site.posts limit:5 %}
+
+                <p> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncatewords: 6 }}</a></p>
+
+        {% endfor %}
+
+      </div>
+
+    </div><!--/row -->
+   </div><!--/container -->
+
+    {% include footer.html %}
+
+
+  </body>
+</html>

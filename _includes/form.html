@@ -1,0 +1,24 @@
+<h4>Prise de contact</h4>
+<div class="hline"></div>
+
+  <p>Laissez-nous vos informations afin que nous puissions fixer un premier rendez-vous dans les meilleurs délais.</p>
+  
+  <form role="form" method="POST" action="//formspree.io/{{ site.email }}">
+    <div class="form-group">
+      <label for="InputName1">Votre nom</label>
+      <input type="text" name="name" class="form-control" id="exampleInputEmail1">
+    </div>
+    <div class="form-group">
+      <label for="InputEmail1">Email</label>
+      <input type="email" name="_replyto" class="form-control" id="exampleInputEmail1">
+    </div>
+    <div class="form-group">
+      <label for="InputSubject1">Sujet</label>
+      <input type="text" name="sujet" class="form-control" id="exampleInputEmail1">
+    </div>
+    <div class="form-group">
+      <label for="message1">Message</label>
+      <textarea class="form-control" name="message" id="message1" rows="3"></textarea>
+    </div>
+    <button type="submit" class="btn btn-theme">Envoyer</button>
+  </form>

@@ -1,0 +1,53 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+<div id="blue">
+    <div class="container">
+		<div class="row">
+			<h3>{{ page.title }}</h3>
+		</div><!-- /row -->
+    </div> <!-- /container -->
+</div><!-- /blue -->
+
+
+<div class="row-fluid mtb2">
+
+<h4>Posts Récents</h4>
+<div class="hline"></div>
+
+	
+
+	<div class="popular-posts">
+
+		{% for post in site.posts %}
+
+            <div class="mt3">
+
+                <div>
+
+                	{% if post.thumbnail %}
+                    	<a href="#"><img src="{{ post.thumbnail }}" alt="Popular Post"></a>
+                    	
+                    {% else %}
+                    	<a href="#"><img src="/assets/img/thsitdown.jpg" alt="Popular Post"></a>
+
+                    {% endif %}
+
+                </div>
+
+
+
+                <h5><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h5>
+                <em>Posté le {{ post.date | date_to_string }}</em>
+
+                {% include post-categories.html %}
+                {% include post-tags.html %}
+            </div>
+
+		{% endfor %}
+
+    </div>
+</div>

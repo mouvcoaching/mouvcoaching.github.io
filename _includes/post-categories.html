@@ -1,0 +1,15 @@
+<div class="post-categories">
+ 
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+
+  {% if categories.size > 0 %}
+  	Catégories:
+	  {% for categ in categories %}
+	  	<em><a href="/categories/#{{categ|slugify}}">{{categ}}</a></em>{% unless forloop.last %},{% endunless %}
+	  {% endfor %}
+  {% endif %}
+</div>

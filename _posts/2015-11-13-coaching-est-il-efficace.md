@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Le coaching est-il efficace?"
+categories: coaching faq
+tags: coaching
+comments: true
+---
+![Coaching professionnel](/assets/img/chrono.jpg)
+
+Le coaching professionnel est une discipline relativement récente, initialement réservée aux dirigeants de haut niveau, elle se démocratise progressivement et concerne maintenant tout type de profession.
+
+Dans nos sociétés modernes, nous avons peu de temps à consacrer à la reflexion et on se retrouve souvent seul face aux grandes decisions de notre vie.
+Le coaching répond à ce besoin d'écoute et de questionnement personnalisé que les managers ou les département de ressources hymaines n'ont plus forcement le temps de satisfaire.
+
+Il est assez facile de se retrouver prisonniers de nos habitudes de pensée, de notre façon de faire ou tout simplement être soumis à nos croyances limitantes. Le coaching va vous apporter un éclairage nouveau sur ces points et vous permettre de progresser vers la réalisation de vos objectifs.

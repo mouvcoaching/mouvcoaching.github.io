@@ -1,0 +1,36 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: MouvCoaching
+email: contact@mouvcoaching.com
+description: "MouvCoaching - Révélez-vous"
+address: "4, Place des impressionnistes 92500 Rueil"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mouvcoaching.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
+
+layout: default
+
+timezone: Europe/Paris
+
+
+# Allow URL Redirects:
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
+
+
+
+sass:
+  sass_dir: assets/css
+  style: :nested
