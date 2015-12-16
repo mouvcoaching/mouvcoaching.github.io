@@ -14,7 +14,7 @@ Je trouve sa description des modèles mentaux absolument fabuleuse et d’une gr
 Il passe énormément de temps à lire des ouvrages très divers qui lui donnent une ouverture d’esprit hors du commun.
 Il lit aussi bien des ouvrages philosophiques que des ouvrages scientifiques et est capable d'établir des liens entre des disciplines qui semblent éloignées à priori.
 
-De culture scientifique, j’ai étais particulièrement sensible à ses posts sur [Feynman](https://www.farnamstreetblog.com/?s=feynman).
+De culture scientifique, j’ai été particulièrement sensible à ses posts sur [Feynman](https://www.farnamstreetblog.com/?s=feynman).
 Par exemple, la différence entre connaitre le nom de quelque chose et connaitre vraiment quelque chose est d’une justesse chirurgicale.
 Toujours sur Feynman, mais dans un registre plus émotionnel, la lettre à sa femme m’a énormément touchée.
 
