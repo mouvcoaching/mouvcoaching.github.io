@@ -18,4 +18,4 @@ De culture scientifique, j’ai été particulièrement sensible à ses posts su
 Par exemple, la différence entre connaitre le nom de quelque chose et connaitre vraiment quelque chose est d’une justesse chirurgicale.
 Toujours sur Feynman, mais dans un registre plus émotionnel, la lettre à sa femme m’a énormément touchée.
 
-On dit toujours qu’un coach doit être cultivé et ouvert sur pas mal de sujets, ce site vous aidera à explorer des sujets très divers en restant toujours extrêmement pertinent et pragmatique.
+On dit toujours qu’un coach doit être cultivé et ouvert sur de nombreux sujets, ce site vous aidera à explorer des sujets très divers en restant toujours extrêmement pertinent et pragmatique.
