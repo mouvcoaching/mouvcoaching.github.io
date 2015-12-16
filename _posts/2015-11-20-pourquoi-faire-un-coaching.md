@@ -19,7 +19,7 @@ Dans ces moments clés, 67% des personnes interrogées auraient souhaité qu’o
 > dans un contexte d’enjeu fort (12%)
 
 
-Cet accompagnement personnalisé aide son bénéficiaire à prendre du recul, analyser la situation sous un angle different, se poser les bonnes questions, s’entraîner à faire différemment, résoudre des conflits, apprendre à mieux communiquer, intégrer efficacement un nouveau poste ou une nouvelle équipe, franchir des étapes décisives…
+Cet accompagnement personnalisé aide son bénéficiaire à prendre du recul, analyser la situation sous un angle différent, se poser les bonnes questions, s’entraîner à faire différemment, résoudre des conflits, apprendre à mieux communiquer, intégrer efficacement un nouveau poste ou une nouvelle équipe, franchir des étapes décisives…
 
 Il découvre des moyens de s’adapter au changement et élargit ses domaines de compétences. Il développe ses savoir-faire et savoir-être.
 
