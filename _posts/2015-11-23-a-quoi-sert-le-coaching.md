@@ -20,7 +20,7 @@ Un coaching, c'est aussi prendre le temps d'identifier les bons problèmes et co
 C'est également une opportunité de changer de rythme, de prendre quelques heures en dehors du tumulte et de la pression du quotidien pour pouvoir réfléchir en toute sérénité.
 Les coachés apprécient particulièrement ce moment pris pour eux dans un espace apaisant, protégé où les sujets abordés sont traités en toute confidentialité.
 
-Le coach de part sa formation utilise des outils simples (écoute active, silences, questionnement et reformulation) mais dispose également d'une palette d'outils plus théoriques qu'il pourra utiliser en fonction de vos besoins et des cas à traiter.
+Le coach de par sa formation utilise des outils simples (écoute active, silences, questionnement et reformulation) mais dispose également d'une palette d'outils plus théoriques qu'il pourra utiliser en fonction de vos besoins et des cas à traiter.
 
 Pour certaines problématiques, si vous le souhaitez, des apports théoriques pourront être fait de façon à débloquer une situation nécéssitant un savoir-faire particulier (conduite de réunion, gestion de conflit, faire un feedback, ...)
 
