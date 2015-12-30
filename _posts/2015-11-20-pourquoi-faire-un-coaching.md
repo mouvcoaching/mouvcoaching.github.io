@@ -10,7 +10,7 @@ comments: true
 
 Chaque salarié doit faire face à des situations à fort enjeu ou doit gérer des phases de transitions au cours de sa carrière.
 
-Dans ces moments clés, 67% des personnes interrogées auraient souhaité qu’on leur propose un coaching afin d'être accompagné.
+Dans ces moments clés, 67% des personnes interrogées auraient souhaité qu’on leur propose un coaching afin d'être accompagnées.
 
 > lors d’une prise de fonction ou changement de poste (18% et 14%)
 >

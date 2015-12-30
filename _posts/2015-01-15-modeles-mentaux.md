@@ -12,10 +12,10 @@ Je lis ce [blog](https://www.farnamstreetblog.com/mental-models/) depuis quelque
 Je trouve sa description des modèles mentaux absolument fabuleuse et d’une grande aide quand on se destine au métier de coach orienté vers l’aide à la personne.
 
 Il passe énormément de temps à lire des ouvrages très divers qui lui donnent une ouverture d’esprit hors du commun.
-Il lit aussi bien des ouvrages philosophiques que des ouvrages scientifiques et est capable d'établir des liens entre des disciplines qui semblent éloignées à priori.
+Il lit aussi bien des ouvrages philosophiques que des ouvrages scientifiques et est capable d'établir des liens entre des disciplines qui semblent éloignées apriori.
 
 De culture scientifique, j’ai été particulièrement sensible à ses posts sur [Feynman](https://www.farnamstreetblog.com/?s=feynman).
-Par exemple, la différence entre connaitre le nom de quelque chose et connaitre vraiment quelque chose est d’une justesse chirurgicale.
-Toujours sur Feynman, mais dans un registre plus émotionnel, la lettre à sa femme m’a énormément touchée.
+Par exemple, la différence entre connaitre le nom de quelque chose et connaître vraiment quelque chose est d’une justesse chirurgicale.
+Toujours sur Feynman, mais dans un registre plus émotionnel, la lettre à sa femme m’a énormément touché.
 
 On dit toujours qu’un coach doit être cultivé et ouvert sur de nombreux sujets, ce site vous aidera à explorer des sujets très divers en restant toujours extrêmement pertinent et pragmatique.

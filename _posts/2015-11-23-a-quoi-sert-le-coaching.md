@@ -22,7 +22,7 @@ Les coachés apprécient particulièrement ce moment pris pour eux dans un espac
 
 Le coach de par sa formation utilise des outils simples (écoute active, silences, questionnement et reformulation) mais dispose également d'une palette d'outils plus théoriques qu'il pourra utiliser en fonction de vos besoins et des cas à traiter.
 
-Pour certaines problématiques, si vous le souhaitez, des apports théoriques pourront être fait de façon à débloquer une situation nécéssitant un savoir-faire particulier (conduite de réunion, gestion de conflit, faire un feedback, ...)
+Pour certaines problématiques, si vous le souhaitez, des apports théoriques pourront être faits de façon à débloquer une situation nécéssitant un savoir-faire particulier (conduite de réunion, gestion de conflit, faire un feedback, ...)
 
 En conclusion, un coaching permet de prendre le temps de se poser les bonnes questions et de trouver les solutions les plus adéquates pour améliorer votre vie professionnelle.
 
