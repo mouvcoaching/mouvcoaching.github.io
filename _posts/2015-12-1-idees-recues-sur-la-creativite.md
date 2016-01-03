@@ -19,7 +19,7 @@ Einstein reste bien sûr un génie mais il faut surtout retenir de son travail: 
 
 Ce dernier point sur la collaboration est trés important et fait l'objet de la deuxième idée reçue.
 
-![Einstein](/assets/img/Einstein.jpg)
+![Einstein](/assets/img/einstein.jpg)
 
 #### La collaboration
 

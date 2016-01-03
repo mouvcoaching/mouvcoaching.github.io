@@ -11,7 +11,7 @@ Il y a plusieurs façons de définir la créativité qui reste un terme relative
 
 La créativité est la capacité d'un individu ou d'un groupe à imaginer et mettre en oeuvre un concept nouveau pour résoudre un problème de façon originale.
 
-![Pencil](/assets/img/Pencil.jpg)
+![Pencil](/assets/img/pencil.jpg)
 
 Partant de ce principe, est-il possible de répliquer les mécanismes de créativité afin de les appliquer pour améliorer son quotidien?
 
