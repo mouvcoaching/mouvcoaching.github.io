@@ -38,6 +38,7 @@ Nous sommes avant tout des animaux sociaux et on retrouve dans la créativité c
 ```
 Des nains sur des épaules de géants (Bernard de Chartres)
 ```
+
 Cette citation, trés utilisée dans le milieu scientifique rappelle que toutes les découvertes ne sont possibles qu'en capitalisant sur les travaux de nos prédécesseurs.
 
 Les chef cuisiniers dans la cuisine, les compagnons dans les métiers de l'artisanat ou toutes personnes qui prennent le temps de transmettre leurs savoirs, leurs techniques et les gestes qui permettent de progresser dans un domaine sont les rouages essentiels à la transmission de notre patrimoine. Ce travail d'éducation est fondamental et permet à l'humanité de progresser en capitalisant sur les savoirs de nos ancètres.
