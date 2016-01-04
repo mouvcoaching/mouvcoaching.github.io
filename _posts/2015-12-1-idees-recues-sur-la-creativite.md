@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quelques idées reçues sur la créativité"
-categories: créativité
+categories: creativite
 tags: coaching
 comments: true
 ---
