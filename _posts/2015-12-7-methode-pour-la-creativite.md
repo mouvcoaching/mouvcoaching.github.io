@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Créativité"
-categories: créativité
+categories: creativite
 tags: outils
 comments: true
 ---
