@@ -9,6 +9,7 @@ comments: true
 L’analyse de la demande est un processus de questionnement qui permet d’identifier le problème de la personne coachée et de préparer le coaching.
 
 Il existe plusieurs modèles qui fournissent une trame et permettent de clarifier la demande:
+
  - **SCORE** (Symptôme, Cause, Objectif, Ressources, Effets)
  - **GROW** (Goal, Reality, Opportunity, Way forward)
  - **RPBDC** (Reel, Probleme, Besoin, Demande, Contrat)
@@ -18,23 +19,24 @@ C’est ce dernier, introduit par Vincent Lenhardt dans son ouvrage *“Les resp
 ### Le Réel
 Le coach cherche à obtenir des informations sur la realité de la personne coachée dans son contexte.
 
-
 Quelques questions classiques:
+
 - Quelle est la situation ?
 - Quel est le contexte, de quoi s'agit-il, quel est le cadre de référence, quelle est la plainte ?
 - Qui, quoi, où, quand, comment, combien, pourquoi ?
 
-Cette phase permet au coach de mieux comprendre la réalité du coaché notamment en écoutant la façcon dont le coaché décrit sa situation. C’est aussi à ce moment que se mettent en place les elements relationnels entre le coaché et le coach.
+Cette phase permet au coach de mieux comprendre la réalité du coaché notamment en écoutant la façcon dont le coaché décrit sa situation. C’est aussi à ce moment-là que se mettent en place les elements relationnels entre le coaché et le coach.
 
 ### Le Problème
 Le coach explore la nature du problème, c’est à dire l'écart entre la situation insatisfaisante et la situation souhaitée. De plus, il faudra comprendre si le problème est extérieur à la personne et/ou relationnel et/ou intra-psychique.
 
 Quelques questions classiques:
-- Quel est le problème ?
-- Est-ce votre problème (responsabilité) ?
-- En quoi est-ce un problème pour vous ?
-- Dans quel but vous posez-vous ce problème ? (quel est l'enjeu ? quelle est votre solution ?)
-- Pourquoi me le posez-vous ?
+
+- Quel est le problème?
+- Est-ce votre problème (responsabilité)?
+- En quoi est-ce un problème pour vous?
+- Dans quel but vous posez-vous ce problème? (quel est l'enjeu? quelle est votre solution?)
+- Pourquoi me le posez-vous?
 
 Un accent particulier sera mis sur la situation souhaitée, qu’est ce que le coaché souhaite vraiment. Il est toujours plus efficace d’exprimer ce que l’on souhaite que ce que l’on ne souhaite pas. Il vaut mieux aller vers que fuir quelque chose ou quelqu’un.
 
@@ -49,14 +51,16 @@ Le coaching orienté solutions préconise d’ailleurs de ne pas se focaliser su
 Le coach doit identifier les besoins du coaché qu’ils soient implicites ou explicites, c’est-à-dire ce qui lui manque pour résoudre son problème. Le coach doit poser un diagnostic afin d'identifier ce dont la personne a besoin pour se développer ?
 
 Le questionnement doit permettre de comprendre:
+
 - Les manques du coaché
 - Les différentes options, réalistes ou non
 - Les actions possibles
 
-Jacques Salomé dans *“A qui ferais-je de la peine si j’étais moi-même ?”* fournit quelques exemples de besoins:
+Jacques Salomé dans *“A qui ferais-je de la peine si j’étais moi-même?”* fournit quelques exemples de besoins:
+
 - d’être rassuré
-- compris
-- respecté
+- d’être compris
+- d’être respecté
 - de sécurité
 - de validation
 - d’affirmation
@@ -64,18 +68,21 @@ Jacques Salomé dans *“A qui ferais-je de la peine si j’étais moi-même ?�
 - etc.
 
 La ProcessComm liste également des besoins psychologiques en fonction des types de personalité.
-Le réveur a par exemple besoin de solitude pour se ressourcer.
+Une personne de base réveur a par exemple besoin de solitude pour se ressourcer.
 
 ### La Demande (de la personne)
 Dans cette phase, le coach doit clarifier la demande à la fois sur le contenu et sur le processus.
 
 **Sur le contenu**
+
 - Quel résultat voulez-vous atteindre ?
 
 **Sur le processus**
+
 - Qu'attendez-vous de moi ?
 
 La demande peut s’exprimer sous différentes formes:
+
 - anti-demande
 - non-demande
 - contredemande
