@@ -8,7 +8,7 @@ comments: true
 
 Richard Feynman n’était pas seulement un excellent chercheur, il était aussi un excellent éducateur.
 C’est-à-dire qu’il avait la capacité d’expliquer les choses de façon simple et synthétique.
-Son père n’a eu de cesse de lui enseigner l’observation. L’observation est une des clés pour comprendre un phénomène. Il cite souvent son père sur “la différence entre connaître le nom des choses et connaitre quelque chose”:
+Son père n’a eu de cesse de lui enseigner l’observation. L’observation est une des clés pour comprendre un phénomène. Il cite souvent son père sur “la différence entre connaître le nom des choses et connaître quelque chose”:
 
 > “You can know the name of a bird in all the languages of the world, but when you’re finished, you’ll know absolutely nothing whatever about the bird… So let’s look at the bird and see what it’s doing—that’s what counts. I learned very early the difference between knowing the name of something and knowing something.”
 Richard Feynman
@@ -27,10 +27,10 @@ J’adore cette scène de **Will Hunting** où Robin Williams exprime la même i
 
 > “Une vraie perte n’arrive qu’aux personnes qui aiment l’autre plus qu’elles s’aiment elles-mêmes”.
 
-Pour arriver à cet état, il faut se mettre à nu et se sentir completement vulnérable.
+Pour arriver à cet état, il faut se mettre à nu et se sentir complètement vulnérable.
 Une description d’une personne n’encapsule pas cette personne. Seule la personne peut accepter de parler d’elle-même pour que le psychologue puisse l’aider réellement.
 
-On retrouve des mécanismes similaires, dans une moindre mesure, en coaching à partir du moment où l’alliance entre le coaché et son coach s’est crée, la parole devient alors libératrice.
+On retrouve des mécanismes similaires, dans une moindre mesure, en coaching, à partir du moment où l’alliance entre le coaché et son coach s’est créée; la parole devient alors libératrice.
 
 Je peux continuer à vous décrire les différences entre nommer et comprendre les choses.
 Je peux aussi continuer à vous décrire le coaching mais vous l’aurez compris, il faut vivre les choses pour pouvoir les ressentir pleinement.
