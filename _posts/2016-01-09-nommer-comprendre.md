@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Nommer ou comprendre les choses"
-categories: outils
-tags: theorie
+thumbnail: /assets/img/thtools.jpg
+categories: reflexion
+tags: coaching
 comments: true
 ---
 

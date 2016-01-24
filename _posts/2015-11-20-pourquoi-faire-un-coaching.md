@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pourquoi faire un coaching?"
-thumbnail: /assets/img/thconversation.jpg
+thumbnail: /assets/img/thfaq.jpg
 categories: coaching faq
 tags: coaching
 comments: true

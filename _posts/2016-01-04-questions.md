@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Le questionnement"
+thumbnail: /assets/img/thtools.jpg
 categories: outils
 tags: theorie
 comments: true

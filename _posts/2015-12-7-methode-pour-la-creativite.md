@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Créativité"
+thumbnail: /assets/img/thtools.jpg
 categories: creativite
 tags: outils
 comments: true

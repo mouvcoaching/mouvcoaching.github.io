@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "L’analyse de la demande en coaching"
+thumbnail: /assets/img/thtools.jpg
 categories: outils
 tags: theorie
 comments: true

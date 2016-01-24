@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Quelques outils pour améliorer votre créativité au quotidien"
+thumbnail: /assets/img/thtools.jpg
 categories: creativite
 tags: outils
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Le coaching est-il efficace?"
+thumbnail: /assets/img/thfaq.jpg
 categories: coaching faq
 tags: coaching
 comments: true

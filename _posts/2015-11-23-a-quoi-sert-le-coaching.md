@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A quoi sert le coaching?"
-thumbnail: /assets/img/thsitdown.jpg
+thumbnail: /assets/img/thfaq.jpg
 categories: coaching faq
 tags: coaching
 comments: true
