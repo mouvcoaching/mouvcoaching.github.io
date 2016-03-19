@@ -8,9 +8,9 @@ comments: true
 ---
 Avez-vous pris le temps de définir vos objectifs pour 2016 ?
 
-Si ce n’est pas le cas, je vous encourage à vous fixer une direction pour l’année et y associer quelques objectifs quantifiables. Souvent, nos objectifs sont liés à des améliorations que l’on souhaite intégrer dans nos vies, que ce soit à un niveau professionnel, personnel, relationnel, etc.
+Si ce n’est pas le cas, je vous encourage à vous fixer une direction pour l’année et y associer quelques objectifs quantifiables. Souvent, nos objectifs sont liés à des améliorations que l’on souhaite intégrer dans nos vies, que ce soit à un niveau professionnel, personnel, ou relationnel.
 
-Pour augmenter vos chances de succès, je vous recommande de définir des objectifs qui ne soient pas trop éloignés de votre mode de vie actuel, sinon vous risquez de vous démotiver et vous n’atteindrez pas vos objectifs. Si vous n’êtes pas à l’aise avec la définition d’objectifs, je vous propose de noter vos phases émotionnelles (positives ou négatives) pour l’année écoulée, en prenant soin d’y intégrer les éléments de votre travail, de votre vie personnelle et de vos relations aux autres.
+Pour augmenter vos chances de succès, je vous recommande de définir des objectifs qui ne soient pas trop éloignés de votre mode de vie actuel, sinon vous risquez de vous démotiver et vous ne les atteindrez pas. Si vous n’êtes pas à l’aise avec la définition d’objectifs, je vous propose de noter vos phases émotionnelles (positives ou négatives) pour l’année écoulée, en prenant soin d’y intégrer les éléments de votre travail, de votre vie personnelle et de vos relations aux autres.
 Vous allez par exemple, noter un changement de poste, un voyage, un conflit, une mutation, une action caritative, l’organisation d’un évènement, le soutien à un proche, etc.
 
 ![Timeline](/assets/img/etimeline.jpg)
