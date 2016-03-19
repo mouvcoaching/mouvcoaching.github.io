@@ -9,6 +9,7 @@ comments: true
 
 Dans le métier de coach, nous sommes notre propre outil.
 Le coach utilise des techniques extrêmement simples:
+
 * Ecoute active
 * Silence
 * Questionnement
