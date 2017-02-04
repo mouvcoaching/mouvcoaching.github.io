@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comment améliorer vos négociations"
+title:  "Comment améliorer vos négociations?"
 thumbnail: /assets/img/thsitdown.jpg
 categories: coaching
 tags: outils
@@ -11,15 +11,15 @@ comments: true
 La semaine dernière, Pierre, un de mes coachés n’était pas satisfait du résultat de ses négociations avec ses collègues. Cette situation le faisait souffrir car il avait toujours l’impression de céder, au lieu de réussir à faire valoir ses idées et améliorer le produit sur lequel il travaillait.
 Après quelques minutes de discussion et un descriptif de la situation, il est devenu clair que le mode de négociation de Pierre était essentiellement orienté positions. Dans une négociation basée sur les positions, chacune des parties campe sur sa position et la discussion finit par se bloquer, c’est l’impasse, une des deux parties abandonne avec un sentiment de frustration.
 
-** Cette situation vous semble familière ? **
+**Cette situation vous semble familière ?**
 
 Si c’est le cas, les quelques lignes qui suivent devraient vous aider et transformer vos négociations en quelque chose de plus productif.
 
 Comme dans toute relation humaine, une bonne négociation passe avant tout par une compréhension des besoins de votre interlocuteur. Il va donc falloir passer d’une négociation de positions à une négociation basée sur les besoins.
 
-** Comment identifier les besoins ? **
+**Comment identifier les besoins ?**
 
-Cette tâche peut être difficile, surtout dans les négociations où la confiance n’est pas encore établie, elle nécessite une grande empathie et la volonté de comprendre le point de vue de votre interlocuteur. Les techniques de coaching sont bien sûr très utiles : ** l’écoute active, la reformulation, le recadrage, le silence et le questionnement**.
+Cette tâche peut être difficile, surtout dans les négociations où la confiance n’est pas encore établie, elle nécessite une grande empathie et la volonté de comprendre le point de vue de votre interlocuteur. Les techniques de coaching sont bien sûr très utiles : **l’écoute active, la reformulation, le recadrage, le silence et le questionnement**.
 
 Une fois les besoins de chacun des protagonistes identifiés, les interlocuteurs pourront alors construire ensemble une solution qui leur convient.
 

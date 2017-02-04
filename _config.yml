@@ -8,7 +8,7 @@
 # Site settings
 title: MouvCoaching
 email: contact@mouvcoaching.com
-description: "MouvCoaching - Révélez-vous"
+description: "MouvCoaching - Devenez une meilleure version de vous-même"
 address: "4, Place des impressionnistes 92500 Rueil"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mouvcoaching.com" # the base hostname & protocol for your site
