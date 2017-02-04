@@ -30,7 +30,7 @@ Vous pouvez noter un détail de votre environnement et faire une affirmation sur
 Privilégiez les questions ouvertes afin de laisser votre interlocuteur s’exprimer plus librement.
 Pour pouvoir développer ces histoires, vous devez également donner à votre interlocuteur suffisamment d’informations pour qu’il réagisse et que la conversation soit un vrai échange.
 
-Vous vous souvenez de la métaphore du velcro que j'avais utilisée dans mon post sur la mémoire.
+Vous vous souvenez de la métaphore du velcro que j'avais utilisée dans mon post sur la [mémoire]({{ site.baseurl }}{% link _posts/2016-06-19-memoire.md %}).
 Pour la conversation, c'est exactement le même mécanisme : vous devez fournir suffisamment d'informations, qui sont autant de petits crochets, auquel votre interlocuteur va pouvoir venir accrocher ses propres expériences, ses propres ressentis.
 Ne faites pas de réponse sèche, sinon votre interlocuteur aura peu de moyen pour rebondir et relancer la conversation.
 A la question « d'où viens-tu ? », si vous répondez « d'Alès », il y a peu de chance que cela inspire votre interlocuteur. Par contre, si vous répondez « d'Alès la capitale des Cévennes qui est un haut lieu du protestantisme », vous lui permettez d'accrocher à votre réponse les éléments qui l'interpellent. Il pourra alors vous racontez ses souvenirs, tels que la visite du musée du désert ou la dégustation de pélardons.
